@@ -12,7 +12,6 @@ This project implements an online payment system using **Stripe** in a **Next.js
 - [Environment Variables](#environment-variables)
 - [How It Works](#how-it-works)
 - [Folder Structure](#folder-structure)
-- [License](#license)
 
 ## Features
 - Integration with Stripe for secure online payments.
